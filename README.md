@@ -4,7 +4,11 @@
 
 ## 1) Acesse o Link do Template Abaixo
 
-Você pode começar rapidamente a editar e simular seus circuitos em um notebook do Google Colab. 
+## 2) Copie o Template para seu drive
+
+## 3) Have fun! 
+
+Você pode começar rapidamente a editar e simular seus circuitos em um notebook do Google Colab.
 
 https://colab.research.google.com/drive/1Mv5luLRtqzXk2r6KixbLD-mrPI2UHs97?usp=sharing
 
