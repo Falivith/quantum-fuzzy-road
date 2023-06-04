@@ -14,7 +14,7 @@ https://colab.research.google.com/drive/1Mv5luLRtqzXk2r6KixbLD-mrPI2UHs97?usp=sh
 
 # A partir da plataforma IBM Quantum
 
-## 1) Acesse a plataforma através do endereço abaixo.
+1. Acesse a plataforma através do endereço abaixo.
 https://quantum-computing.ibm.com/
 
 No módulo "IBM Quantum Lab" você tem acesso a um notebook integrado com o Quantum Composer, outra ferramenta interessante que permite fazer drag e drop de portas e circuitos, converte eles automaticamente para o código Qiskit e pode ser usado para enviar experimentos nos circuitos criados para máquinas quânticas reais da IBM.
