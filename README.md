@@ -1,8 +1,22 @@
-# Quantum Fuzzy Road
+# Quantum Fuzzy Road - Formas de utilização da Biblioteca Qiskit
+
+# On The GO (Colab)
+
+##1) Copie o template de Notebook do Collab, e você pode começar rapidamente a editar e simular seus circuitos.
+
+https://colab.research.google.com/drive/1Mv5luLRtqzXk2r6KixbLD-mrPI2UHs97?usp=sharing
+
+# A partir da plataforma IBM Quantum
+
+https://quantum-computing.ibm.com/
+
+No módulo "IBM Quantum Lab" você tem acesso a um notebook integrado com o Quantum Composer, outra ferramenta interessante que permite fazer drag e drop de portas e circuitos, converte eles automaticamente para o código Qiskit e pode ser usado para enviar experimentos nos circuitos criados para máquinas quânticas reais da IBM.
+
+# Instalar o ambiente de simulação na sua própria máquina
 
 Aqui você encontrará instruções de como começar rapidamente a analisar, criar e simular seus circuitos em computação quântica utilizando Python, Qiskit e Notebooks. 
 
-# 1) Instalar o Python na sua máquina
+## 1) Instalar o Python na sua máquina
 
 Windows: 
 
@@ -21,20 +35,20 @@ Passo 6: O instalador irá configurar o Python e instalar todas as dependências
 Fedora/Debian e derivados: sudo dnf install python3
 Ubuntu e derivados: sudo apt install python3
 
-# 2) Instalar o Jupyter Notebook
+## 2) Instalar o Jupyter Notebook
 
 Windows: Após instalar o Python, você pode usar o gerenciador de pacotes PIP que vêm junto com ele para instalar o Jupyter notebook. A partir de qualquer terminal, insira: pip install jupyter notebook
 
 Fedora/Debian e derivados: sudo dnf install jupyter-notebook
 Ubuntu e derivados: sudo apt install jupyter-notebook
 
-# 3) Instalar o Qiskit
+## 3) Instalar o Qiskit
 
 Também utilizando o pip, insira em qualquer terminal: pip install qiskit
 
 Funciona para qualquer sistema com o Python e o pip instalado.
 
-# 4) Instalar o MatPlotLib (Opcional) (Recomendado)
+## 4) Instalar o MatPlotLib (Opcional) (Recomendado)
 
 Essa biblioteca é importante e interessante para plotagem dos circuitos produzidos.
 
