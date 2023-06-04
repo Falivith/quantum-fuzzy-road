@@ -2,11 +2,11 @@
 
 # On The GO (Colab)
 
-## 1) Acesse o Link do Template Abaixo
+1. Acesse o Link do Template Abaixo
 
-## 2) Copie o Template para seu drive
+2. Copie o Template para seu drive
 
-## 3) Have fun! 
+3. Have fun! 
 
 Você pode começar rapidamente a editar e simular seus circuitos em um notebook do Google Colab.
 
