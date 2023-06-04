@@ -21,7 +21,7 @@ Aqui você encontrará instruções de como começar rapidamente a analisar, cri
 
 ## 1) Instalar o Python na sua máquina
 
-Windows: 
+- Windows
 
 1. Acesse o site oficial do Python em https://www.python.org/downloads/.
 
