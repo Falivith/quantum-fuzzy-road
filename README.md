@@ -2,7 +2,7 @@
 
 # On The GO (Colab)
 
-##1) Copie o template de Notebook do Collab, e você pode começar rapidamente a editar e simular seus circuitos.
+## 1) Copie o template de Notebook do Collab, e você pode começar rapidamente a editar e simular seus circuitos.
 
 https://colab.research.google.com/drive/1Mv5luLRtqzXk2r6KixbLD-mrPI2UHs97?usp=sharing
 
